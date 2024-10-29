@@ -10,6 +10,14 @@ My stack is react.js, django, aiogram3, telethon, pyrogram, flutter, etc.
 ## 🔗 Links
 [![resume](https://avatars.mds.yandex.net/i?id=7fb9148e69f842debf6dff91c9879565acae05da-4471989-images-thumbs&n=1) CV](CV.pdf)
 
+## Pet-projects
+https://github.com/Central-University-IT-prod/PROD-hh-v-prod-backend
+https://github.com/Central-University-IT-prod/public-backend-arklual
+https://github.com/arklual/EduVerseDiary
+https://github.com/arklual/board-games
+https://github.com/arklual/okcinema33
+https://github.com/arklual/alice_youtube
+
 ## 🛠 Skills
 Python, Django, Fast API, AIOgram, Selenium, Celery
 
