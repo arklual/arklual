@@ -8,7 +8,7 @@ I can automate your business by creating virtual employees, bots. I can build te
 My stack is react.js, django, aiogram3, telethon, pyrogram, flutter, etc.
 
 ## 🔗 Links
-[![resume](https://avatars.mds.yandex.net/i?id=7fb9148e69f842debf6dff91c9879565acae05da-4471989-images-thumbs&n=1) Резюме](CV.pdf)
+[![resume](https://avatars.mds.yandex.net/i?id=7fb9148e69f842debf6dff91c9879565acae05da-4471989-images-thumbs&n=1) CV](CV.pdf)
 
 ## 🛠 Skills
 Python, Django, Fast API, AIOgram, Selenium, Celery
